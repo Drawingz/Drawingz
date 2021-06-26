@@ -17,3 +17,8 @@ var Contact = new Dictionary<string, string>
     { "Telegram", "@NotDrawingz" }
 };
 ```
+### Stats
+<br>
+<a href="https://github.com/Drawingz/Drawingz">
+    <img align="center" src="https://komarev.com/ghpvc/?username=Drawingz&color=DF6D74&style=plastic&label=Profile Views"/>
+</a>
