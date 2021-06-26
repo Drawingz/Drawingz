@@ -1,16 +1,16 @@
-### Hi there 👋
+const string From = "Romania";
+int Age = 15;
 
-<!--
-**Drawingz/Drawingz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+var Catvirt = new Dictionary<string, string>
+{
+    { "Knowledge", "C#, Python, (soon) Rust" },
+    { "Tools", "Rider, InteliJ, PyCharm, Visual Studio" },
+    { "OS", "Windows 10 Home" },
+    { "Projects", "DorkR" }
+};
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+var Contact = new Dictionary<string, string>
+{
+    { "Email", "cvirtbusiness@protonmail.com" },
+    { "Discord", "catvirt#3939" }
+};
